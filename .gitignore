@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# MATLAB
+*.asv
+*.mex*
+*.mat
+slprj/
+*.autosave
+
+# C/C++ build
+build/
+out/
+*.o
+*.obj
+*.exe
+*.log
+CMakeFiles/
+CMakeCache.txt
+
+# Data (원본/민감 데이터는 올리지 말기)
+data/
