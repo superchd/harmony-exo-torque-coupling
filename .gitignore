@@ -24,4 +24,4 @@ CMakeFiles/
 CMakeCache.txt
 
 # Data (원본/민감 데이터는 올리지 말기)
-data/
+#data/
