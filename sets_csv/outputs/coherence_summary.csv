@@ -1,9 +1,0 @@
-file,C_low_0.08_0.6Hz,elbow_std_deg,flag_flat_elbow(<0.5deg),below_thresh(τ=0.15),status
-task1_rep01.csv,,0.3679294387505489,True,True,flat_elbow
-task1_rep02.csv,,0.3519695046364763,True,True,flat_elbow
-task1_rep03.csv,0.44015673703519903,0.8096130222668372,False,False,ok
-task1_rep04.csv,,0.27746560770701634,True,True,flat_elbow
-task1_rep05.csv,,0.029925190954939597,True,True,flat_elbow
-task2_rep01.csv,,0.3369989371360804,True,True,flat_elbow
-task2_rep02.csv,,0.2663609166226901,True,True,flat_elbow
-task2_rep03.csv,,0.14199695970021722,True,True,flat_elbow
